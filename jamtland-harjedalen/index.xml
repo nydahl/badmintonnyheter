@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Backup av Badminton Swedens Nyheter</title>
-    <link>http://example.org/jamtland-harjedalen/</link>
+    <link>https://nydahl.github.io/badmintonnyheter/jamtland-harjedalen/</link>
     <description>Recent content on Backup av Badminton Swedens Nyheter</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>sv</language>
-    <lastBuildDate>Sat, 14 Nov 2009 17:44:55 +0100</lastBuildDate><atom:link href="http://example.org/jamtland-harjedalen/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 14 Nov 2009 17:44:55 +0100</lastBuildDate><atom:link href="https://nydahl.github.io/badmintonnyheter/jamtland-harjedalen/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Välkommen till IdrottOnline Förbund!</title>
-      <link>http://example.org/jamtland-harjedalen/2009-11-14-valkommen-till-idrottonline-forbund/</link>
+      <link>https://nydahl.github.io/badmintonnyheter/jamtland-harjedalen/2009-11-14-valkommen-till-idrottonline-forbund/</link>
       <pubDate>Sat, 14 Nov 2009 17:44:55 +0100</pubDate>
       
-      <guid>http://example.org/jamtland-harjedalen/2009-11-14-valkommen-till-idrottonline-forbund/</guid>
+      <guid>https://nydahl.github.io/badmintonnyheter/jamtland-harjedalen/2009-11-14-valkommen-till-idrottonline-forbund/</guid>
       <description>Detta är verktyget i vilket ni som förbund kan skapa och administrera er hemsida. Ni kan hantera och publicera all tänkbar information för ert förbund och lägga upp bland annat nyheter, arbetsrum, kalender, bilder och dokument. Ni har också tillgång till ett nyhetsflöde inom hela IdrottOnline.
 Har ni frågor kring IdrottOnline Förbund kan ni läsa mer på www.idrottonline.se/forbund eller är ni välkommna att skicka ett mejl till forbund@idrottonline.se.
 Lycka till!</description>

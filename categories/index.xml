@@ -2,9 +2,9 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on Backup av Badminton Swedens Nyheter</title>
-    <link>http://example.org/categories/</link>
+    <link>https://nydahl.github.io/badmintonnyheter/categories/</link>
     <description>Recent content in Categories on Backup av Badminton Swedens Nyheter</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>sv</language><atom:link href="http://example.org/categories/index.xml" rel="self" type="application/rss+xml" />
+    <language>sv</language><atom:link href="https://nydahl.github.io/badmintonnyheter/categories/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
