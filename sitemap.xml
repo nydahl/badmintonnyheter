@@ -2,12 +2,13 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://nydahl.github.io/badmintonnyheter/badmintonsweden/</loc>
+    <loc>https://nydahl.github.io/badmintonnyheter/</loc>
     <lastmod>2022-12-18T14:26:35+01:00</lastmod>
     <priority>0</priority>
   </url><url>
-    <loc>https://nydahl.github.io/badmintonnyheter/</loc>
+    <loc>https://nydahl.github.io/badmintonnyheter/badmintonsweden/</loc>
     <lastmod>2022-12-18T14:26:35+01:00</lastmod>
+    <priority>0</priority>
   </url><url>
     <loc>https://nydahl.github.io/badmintonnyheter/badmintonsweden/2022-12-18-tappert-men-forlust-mot-skottland-i-lag-em-kvalet/</loc>
     <lastmod>2022-12-18T14:26:35+01:00</lastmod>

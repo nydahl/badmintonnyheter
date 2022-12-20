@@ -625,6 +625,14 @@ video {
   border-collapse: collapse;
 }
 
+.flex-wrap {
+  flex-wrap: wrap;
+}
+
+.gap-2 {
+  gap: 0.5rem;
+}
+
 .border {
   border-width: 1px;
 }
@@ -765,6 +773,15 @@ li a:hover {
   color: rgb(30 64 175 / var(--tw-text-opacity));
 }
 
+h1 {
+  margin-bottom: 1rem;
+  font-size: 1.5rem;
+  line-height: 2rem;
+  font-weight: 700;
+  --tw-text-opacity: 1;
+  color: rgb(30 58 138 / var(--tw-text-opacity));
+}
+
 h2 {
   margin-bottom: 1rem;
   font-size: 1.25rem;
@@ -784,6 +801,16 @@ main p a:visited {
   --tw-text-opacity: 1;
   color: rgb(168 85 247 / var(--tw-text-opacity));
   text-decoration-line: underline;
+}
+
+.columns {
+  display: flex;
+  flex-flow: row wrap;
+}
+
+.column {
+  flex: 1 1 20rem;
+  margin-bottom: 2rem;
 }
 
 .visited\:text-purple-700:visited {
